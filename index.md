@@ -26,7 +26,7 @@ You have full control over your data. At any time, you can:
 * **Delete your account:** You can permanently delete your SubZero account and wipe all locally stored data by going to Settings > "Delete Account". This action is irreversible and instantly removes all your records.
 
 ## 5. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at: [ضع إيميلك هنا]
+If you have any questions or concerns about this Privacy Policy, please contact us at: a.i.alfantokh@gmail.com
 
 ---
 ---
@@ -59,4 +59,4 @@ SubZero هو تطبيق لتتبع الاشتراكات، صُمم لمساعد�
 * **حذف حسابك:** يمكنك حذف حسابك في SubZero نهائياً ومسح كافة البيانات المخزنة محلياً عبر التوجه إلى (الإعدادات > حذف الحساب). هذا الإجراء لا يمكن التراجع عنه ويقوم بإزالة كافة سجلاتك فوراً.
 
 ## 5. تواصل معنا
-إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، يُرجى التواصل معنا عبر: [ضع إيميلك هنا]
+إذا كانت لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، يُرجى التواصل معنا عبر: a.i.alfantokh@gmail.com
